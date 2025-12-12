@@ -1,0 +1,48 @@
+body {
+  background-color: #aba0a0;
+}
+
+p {
+  font-size: 16px;
+
+}
+
+#title {
+  color: darkblue;
+  text-align: center;
+  font-weight: bold;
+}
+
+.intro {
+  color: #333;
+  text-shadow: 3px 3px 6px hsla(189, 60%, 66%, 0.815);
+}
+
+#myNav {
+  background-color: #b6a7a7;
+  padding: 2px;
+  color: blue;
+  text-align: center;
+  border-radius: 2rem;
+
+}
+
+#myNav li {
+  text-align: center;
+  margin-left: 25px;
+  display: inline;
+  color: rgb(104, 104, 225);
+  ;
+}
+
+#myNav ul li a:hover {
+  text-decoration: underline;
+}
+
+.info-box {
+  background-color: hsla(210, 11%, 71%, 0.76);
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 28px;
+  box-shadow: 3px 3px 10px hsla(0, 3%, 11%, 0.815);
+}
